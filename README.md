@@ -3,7 +3,7 @@
 I'm Ebin Pereppadan Sabu, a final year BSc Computer Science Student at The University of Liverpool.
 Right now working on multiple projects that can be seen on my Github. Find out more about me on my [Website.](https://ebinsabu.com/)
 
-[![Ebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebin-sabu)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebin-sabu&hide_progress=true)
 <!--
 **ebin-sabu/ebin-sabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
