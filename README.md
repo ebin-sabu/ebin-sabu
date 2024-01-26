@@ -5,3 +5,5 @@ Right now working on multiple projects that can be seen on my Github. Find out m
 
 ### What I Do ✅ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebin-sabu&hide_progress=true&theme=city_lights)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ebin-sabu&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
